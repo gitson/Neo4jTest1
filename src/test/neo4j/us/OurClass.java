@@ -65,7 +65,7 @@ public class OurClass {
 				if(node.hasProperty("name")) {
 					System.out.println(node.getProperty("name"));
 				}
-			}
+			} 
 			tx.success();
 		}
 		
